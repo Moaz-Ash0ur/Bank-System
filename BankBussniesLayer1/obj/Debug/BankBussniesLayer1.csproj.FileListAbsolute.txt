@@ -1,0 +1,9 @@
+C:\Users\hp\source\repos\BankBussniesLayer1\bin\Debug\BankBussniesLayer1.dll
+C:\Users\hp\source\repos\BankBussniesLayer1\bin\Debug\BankBussniesLayer1.pdb
+C:\Users\hp\source\repos\BankBussniesLayer1\obj\Debug\BankBussniesLayer1.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\BankBussniesLayer1\obj\Debug\BankBussniesLayer1.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\BankBussniesLayer1\obj\Debug\BankBussniesLayer1.dll
+C:\Users\hp\source\repos\BankBussniesLayer1\obj\Debug\BankBussniesLayer1.pdb
+C:\Users\hp\source\repos\BankBussniesLayer1\bin\Debug\BankDataAccess1.dll
+C:\Users\hp\source\repos\BankBussniesLayer1\bin\Debug\BankDataAccess1.pdb
+C:\Users\hp\source\repos\BankBussniesLayer1\obj\Debug\BankBuss.C0C6C065.Up2Date

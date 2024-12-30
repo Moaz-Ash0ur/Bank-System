@@ -1,0 +1,8 @@
+C:\Users\hp\source\repos\BankDataAccess1\obj\Debug\BankDataAccess1.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\BankDataAccess1\obj\Debug\BankDataAccess1.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\BankDataAccess1\bin\Debug\BankDataAccess1.dll
+C:\Users\hp\source\repos\BankDataAccess1\bin\Debug\BankDataAccess1.pdb
+C:\Users\hp\source\repos\BankDataAccess1\obj\Debug\BankDataAccess1.dll
+C:\Users\hp\source\repos\BankDataAccess1\obj\Debug\BankDataAccess1.pdb
+C:\Users\hp\source\repos\BankDataAccess1\bin\Debug\Guna.UI2.dll
+C:\Users\hp\source\repos\BankDataAccess1\obj\Debug\BankData.12DB8567.Up2Date

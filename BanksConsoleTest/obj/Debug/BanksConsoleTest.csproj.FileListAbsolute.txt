@@ -1,0 +1,12 @@
+C:\Users\hp\source\repos\BanksConsoleTest\bin\Debug\BanksConsoleTest.exe.config
+C:\Users\hp\source\repos\BanksConsoleTest\bin\Debug\BanksConsoleTest.exe
+C:\Users\hp\source\repos\BanksConsoleTest\bin\Debug\BanksConsoleTest.pdb
+C:\Users\hp\source\repos\BanksConsoleTest\bin\Debug\BankBussniesLayer1.dll
+C:\Users\hp\source\repos\BanksConsoleTest\bin\Debug\BankBussniesLayer1.pdb
+C:\Users\hp\source\repos\BanksConsoleTest\obj\Debug\BanksConsoleTest.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\BanksConsoleTest\obj\Debug\BanksConsoleTest.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\BanksConsoleTest\obj\Debug\BanksCon.03041CEC.Up2Date
+C:\Users\hp\source\repos\BanksConsoleTest\obj\Debug\BanksConsoleTest.exe
+C:\Users\hp\source\repos\BanksConsoleTest\obj\Debug\BanksConsoleTest.pdb
+C:\Users\hp\source\repos\BanksConsoleTest\bin\Debug\BankDataAccess1.dll
+C:\Users\hp\source\repos\BanksConsoleTest\bin\Debug\BankDataAccess1.pdb
